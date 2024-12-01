@@ -5,7 +5,7 @@
   </a>
   
   <h5 align="center"> 
-    <b> Em andamento... ⌛ </b>
+    <b> Completo ✅ </b>
   </h5>
 </div>
 
