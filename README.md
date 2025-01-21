@@ -84,67 +84,37 @@ Bibliotecas Java :
 Gson: Manipulação de dados JSON.
 HttpClient: Realiza chamadas HTTP para uma API.
 
-## Agradecimentos 🙌
-Agradecemos seu interesse no projeto A3 Screenmatch . Esperamos que ele facilite suas buscas por séries e ajude a organizar informações de forma prática e eficiente! 😊
+---
 
-  <div align="center">
-  
-  ## 👩🏻‍💻 Autores <br>
-  
 <div align="center">
-  <!-- Primeira Linha -->
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/robsonlmds">
-          <img src="https://avatars.githubusercontent.com/u/e?email=robsonlmds@hotmail.com&s=500" width="100px;" title="Autor Robson Lucas Messias" alt="Foto de Perfil do GitHub - Robson Lucas Messias"/><br>
-        </a>
-        <sub><b>Robson Lucas Messias</b></sub><br>
-        <a href="https://github.com/robsonlmds">GitHub</a> | 
-        <a href="https://www.linkedin.com/in/r-lucas-messias/">LinkedIn</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/luzzzirl">
-          <img src="https://avatars.githubusercontent.com/u/e?email=gabrielluz805@gmail.com&s=500" width="100px;" title="Autor Gabriel Luz" alt="Foto de Perfil do GitHub - luzzzirl"/><br>
-        </a>
-        <sub><b>Luzzzirl</b></sub><br>
-        <a href="https://github.com/luzzzirl">GitHub</a> | 
-        <a href="https://www.linkedin.com/in/gabriel-luz-324a14260/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Riveloso">
-          <img src="https://avatars.githubusercontent.com/u/e?email=svrichard@outlook.com&s=500" width="100px;" title="Autor Richard Veloso" alt="Foto de Perfil do GitHub - Riveloso"/><br>
-        </a>
-        <sub><b>Riveloso</b></sub><br>
-        <a href="https://github.com/Riveloso">GitHub</a> | 
-        <a href="https://www.linkedin.com/in/richard-veloso-553148251/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/paulotw44">
-          <img src="https://avatars.githubusercontent.com/u/e?email=paulotw44@gmail.com.com&s=500" width="100px;" title="Autor Paulo Roberto" alt="Foto de Perfil do GitHub - paulotw44"/><br>
-        </a>
-        <sub><b>paulotw44</b></sub><br>
-        <a href="https://github.com/paulotw44">GitHub</a> | 
-        <a href="https://github.com/paulotw44">LinkedIn</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/beafcastro">
-          <img src="https://avatars.githubusercontent.com/u/e?email=Bea.falcao.castro@gmail.com&s=500" width="100px;" title="Autor Beatriz Falcão" alt="Foto de Perfil do GitHub - beafcastro"/><br>
-        </a>
-        <sub><b>beafcastro</b></sub><br>
-        <a href="https://github.com/beafcastro">GitHub</a> | 
-        <a href="https://www.linkedin.com/in/beatrizfcastro/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
-      </td>
-    </tr>
-  </table>
+
+## 👩🏻‍💻 Autor <br>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/robsonlmds">
+        <img src="https://avatars.githubusercontent.com/u/e?email=robsonlmds@hotmail.com&s=500" width="100px;" title="Autor Robson Lucas Messias" alt="Foto de Perfil do GitHub - Robson Lucas Messias"/><br>
+        <sub>
+          <b>Robson Lucas Messias</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
+ 
+<h4 align="center">
+  Made by: Robson Lucas Messias | <a href="mailto:robsonlmds@hotmail.com">Contato</a>
+</h4>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/r-lucas-messias/">
+    <img alt="Robson Lucas Messias" src="https://img.shields.io/badge/LinkedIn-R.Lucas_Messias-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  </a>
+</p>
 
-
-
-
-  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Obrigado+pela+atenção!;" />
-  </h1>
-
-
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Obrigado+pela+atenção!;" />
+</h1>
